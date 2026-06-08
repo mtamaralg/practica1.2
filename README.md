@@ -25,3 +25,18 @@ DB_HOST=localhost
 DB_NAME=nombre_de_tu_base_de_datos
 DB_USER=tu_usuario
 DB_PASSWORD=tu_contraseña_segura
+
+
+```
+IMAGENES
+
+sudo ./install_lamp.sh
+<img width="1398" height="374" alt="Primera cap 1 2" src="https://github.com/user-attachments/assets/864def29-0914-4271-abcd-56ad28e75c78" />
+
+sudo ./deploy.sh
+<img width="1394" height="377" alt="Segunda cap 1 2" src="https://github.com/user-attachments/assets/54911743-2760-404d-8745-1626c5182f08" />
+
+comprovacion en el navegador con la ip piblica (3.95.52.92)
+<img width="1900" height="1017" alt="Tercera cap 1 2" src="https://github.com/user-attachments/assets/990b16af-9845-474a-8828-de55f9ca7f58" />
+
+
